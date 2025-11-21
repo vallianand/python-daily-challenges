@@ -1,76 +1,121 @@
+Python Daily Coding Challenges
+Project Title
 
-# 🐍 Python Daily Coding Challenges Repository
+Daily Python coding challenges to strengthen programming fundamentals and problem-solving skills.
 
-Welcome to my **Python Daily Challenges** repository! 🎯  
-This repo contains beginner to intermediate level coding exercises I complete daily to strengthen my Python fundamentals and problem-solving skills.  
+Description
 
-Each challenge covers a specific topic like strings, lists, tuples, dictionaries, sets, and more.  
-Every project is written in **simple, beginner-friendly Python** — easy to understand and explain.
+This repository contains a growing collection of beginner-friendly to intermediate Python challenges that I solve daily.
+Each challenge focuses on a specific concept such as strings, loops, lists, dictionaries, sets, functions, and real-world logic building.
 
----
+The purpose of this project is to:
 
-## 🧩 Challenges List
+Improve Python foundational skills
 
-### 📘 Challenge 1: Student Profile Creator  
-**Project Title:** Student Profile Creator  
-**Objective:**  
-Create a program to store and display student information such as name, age, and favorite subjects.  
-**Concepts Used:** Variables, Strings, Lists, User Input  
-**File Name:** `challenge1_student_profile_creator.py`
+Build consistent coding discipline
 
----
+Create strong portfolio-ready code
 
-### 🔐 Challenge 2: Secret Message Decoder  
-**Project Title:** Secret Message Decoder  
-**Objective:**  
-Develop a Python program that encodes and decodes secret messages using basic string methods and slicing.  
-**Concepts Used:** Strings, Functions, Conditionals  
-**File Name:** `challenge2_secret_message_decoder.py`
+Prepare for Python and data-related interviews
 
----
+Every file in this repository is simple, clean, and beginner-friendly.
 
-### 🛍️ Challenge 3: Retail Inventory Manager  
-**Project Title:** Retail Inventory Manager  
-**Objective:**  
-Build a simple inventory management system to add, update, and display product lists.  
-**Concepts Used:** Tuples, Lists, User Input  
-**File Name:** `challenge3_retail_inventory_manager.py`
+Getting Started
+Dependencies
 
----
+Before running these programs, ensure you have:
 
-### 📞 Challenge 4: Contact Directory  
-**Project Title:** Contact Directory  
-**Objective:**  
-Design a Python program to store and manage contact details (name, phone, and email) using dictionaries.  
-**Concepts Used:** Dictionary, Functions, User Input  
-**File Name:** `challenge4_contact_directory.py`
+Python 3.x
 
----
+OS: Windows 10/11, macOS, or Linux
 
-### 🎓 Challenge 5: Student Grades & Hobbies Tracker  
-**Project Title:** Student Grades & Hobbies Tracker  
-**Objective:**  
-Collect and update student grades, store hobbies efficiently, and convert them into an immutable collection.  
-**Concepts Used:** Dictionary, Set, Frozenset  
-**File Name:** `challenge5_student_grades_hobbies_tracker.py`
+Any code editor (VS Code, PyCharm, IDLE, etc.)
 
----
+Optional: Git for cloning the repository
 
-## 🆕 Upcoming Challenges  
-I will continue adding more challenges regularly to cover advanced Python concepts such as:  
-- File Handling  
-- Exception Handling  
-- Functions and Modules  
-- OOP (Classes & Objects)  
-- Data Analysis Basics (Pandas, NumPy)  
-- Mini Projects for Beginners  
+Installing
+1. Clone the repository
+git clone https://github.com/yourusername/python-daily-challenges.git
 
-Stay tuned for new updates! 🌱  
+2. Move into the folder
+cd python-daily-challenges
 
----
 
-## 🚀 How to Run the Projects
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/python-daily-challenges.git
+No additional setup or configuration is required.
 
+Executing Program
+
+To run any challenge file:
+
+Open your terminal
+
+Navigate to the project folder
+
+Run:
+
+python filename.py
+
+
+Example:
+
+python challenge6_shopping_cart_system.py
+
+Help
+
+Common issues & fixes:
+
+Python Not Recognized
+Install Python again and enable Add to PATH.
+
+File Not Found
+Navigate to the correct folder:
+
+cd python-daily-challenges
+
+
+Module Errors
+No external libraries are used — default Python only.
+
+If you need additional help:
+
+python --help
+
+Authors
+
+Valli Anandhan
+GitHub: https://github.com/vallianand
+
+Email: vallianand001@gmail.com
+
+Version History
+0.2
+
+Added Challenge 6: Shopping Cart System
+
+Improved README structure
+
+Clean formatting updates
+
+0.1
+
+Initial release with first 5 challenges
+
+Setup of main repository structure
+
+License
+
+This project is licensed under the MIT License — see the LICENSE.md file for full details.
+
+Acknowledgments
+
+Special thanks to sources of inspiration:
+
+awesome-readme
+
+PurpleBooth
+
+dbader
+
+zenorocha
+
+fvcproductions
